@@ -1,4 +1,4 @@
-# French Macbook Keyboard Layout For Windows (fmbkl4w) 1.0
+# French Macbook Keyboard Layout For Windows (fmbkl4w) 1.1.0
 par Nicolas Leclerc <nl@spirotron.fr>
 
 ## I. Objectif
