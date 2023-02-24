@@ -17,7 +17,7 @@ http://www.gnu.org/licenses/gpl.html
 
 Pour commencer vous devez vous procurer le package d’installation
 
-- soit en le téléchargeant à l’adresse : http://github.com/nleclerc/fmbkl4w/downloads
+- soit en le téléchargeant à l’adresse : https://github.com/nleclerc/fmbkl4w/releases
 - soit en le compilant à partir des sources (voir plus bas).
 
 Une fois ce package décompressé ou compilé, il vous suffit d’exécuter le fichier setup.exe
