@@ -23,6 +23,8 @@ Pour commencer vous devez vous procurer le package d’installation
 Une fois ce package décompressé ou compilé, il vous suffit d’exécuter le fichier setup.exe
 et de suivre les instructions.
 
+Il est possible qu'il soit nécessaire de redémarrer windows après l'installation.
+
 ## IV. Compilation
 
 Pour compiler le fichier klc vous aurez besoin du Microsoft Keyboard Layout Creator (mklc).
@@ -35,8 +37,9 @@ pour que l’installeur soit généré dans votre dossier Mes Documents.
 
 ## V. Problèmes Connus
 
-- Certaines combinaisons de touches spéciales ne sont pas supportées mais l’essentiel
-  devrait y être. En tout cas il est tout à fait possible de programmer avec :)
+- La rangée de touches numériques ne fonctionne pas comme sur mac quand capslock est activé. Capslock est l'équivalent de shift sous windows malheureusement.
+
+- Les combinaisons de alt+shift avec capslock activé ne sont pas nécessairement correctes.
 
 - A noter que si vous utilisez un PC lambda (et non un mac sous bootcamp), il est quasi indispensable
   d’installer malgré tout les drivers de clavier bootcamp afin que certaines combinaisons fonctionnent
