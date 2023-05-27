@@ -41,6 +41,8 @@ pour que l’installeur soit généré dans votre dossier Mes Documents.
 
 - Les combinaisons de alt+shift avec capslock activé ne sont pas nécessairement correctes.
 
+- Sur certains claviers, il faut utiliser la touche alt de droite pour pouvoir faire des combinaisons (par exemple pour les caracètres `\`, `|`, `~`…)
+
 - A noter que si vous utilisez un PC lambda (et non un mac sous bootcamp), il est quasi indispensable
   d’installer malgré tout les drivers de clavier bootcamp afin que certaines combinaisons fonctionnent
   (comme fct+backspace). Vous devrez extraire le driver seul du package bootcamp général en décompressant
